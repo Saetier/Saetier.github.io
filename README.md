@@ -1,5 +1,3 @@
-# Saetier.github.io
-
 # Hello 🔍 I'm YongHwan Hwang  
 ### Researching LLMs, multimodal AI, and intelligent agents.
 
